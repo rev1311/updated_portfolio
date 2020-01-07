@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.gallery {
+    width: 200px;
+    height: 200px;
+}
+
+.ppl {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    align-content: center;
+}

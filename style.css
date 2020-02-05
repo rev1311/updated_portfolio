@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+html {
+    background: url(/assets/IMG_3599.GIF) no-repeat center center fixed;
+}
+
 .gallery {
     width: 200px;
     height: 200px;

@@ -3,8 +3,10 @@
     padding: 0;
 }
 
-html {
-    background: url(/assets/IMG_3599.GIF) no-repeat center center fixed;
+body {
+    background: url(./assets/bg123.jpg) no-repeat center center fixed;
+    font-family: 'Oxygen', sans-serif;
+    /* font-family: 'Libre Baskerville', serif; */
 }
 
 .gallery {
@@ -16,4 +18,8 @@ html {
     margin-top: 10px;
     margin-bottom: 20px;
     align-content: center;
+}
+
+a {
+    text-decoration: none;
 }

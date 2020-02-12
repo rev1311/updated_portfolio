@@ -14,12 +14,29 @@ body {
     height: 200px;
 }
 
+.bg {
+    background: rgb(5, 228, 252);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 6px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-top: 30px;
+}
+
 .ppl {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: -30px;
     align-content: center;
 }
 
 a {
     text-decoration: none;
+    font-family: 'Libre Baskerville', serif;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ccc;
 }
